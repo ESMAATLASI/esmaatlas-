@@ -1,0 +1,140 @@
+================================================================================
+KUR'AN-I KERİM ESMÂ ATLASI
+İlâhî İsimlerin Nüzul Kronolojisi
+================================================================================
+
+Copyright (c) 2026 Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ. Tüm Hakları Saklıdır.
+Copyright (c) 2026 Abdulhalim KILIÇ. All Rights Reserved.
+
+Eser sahibinin mali ve manevi hakları, 5846 sayılı Fikir ve Sanat Eserleri
+Kanunu ile Bern Sözleşmesi ve WIPO Telif Hakları Andlaşması uyarınca saklıdır.
+
+Eser sahibi, aşağıda tanımlanan lisans kapsamında kamuya açık (Open Access)
+kullanım izni vermiştir. Bu izin, eser sahibinin haklarından feragat ettiği
+anlamına gelmez; yalnız belirtilen sınırlar içinde kullanıma müsaade eder.
+
+The rights holder grants public access under the license defined below. This
+grant is not a waiver of copyright; it permits use only within the stated limits.
+
+--------------------------------------------------------------------------------
+KULLANIM LİSANSI
+--------------------------------------------------------------------------------
+
+    Creative Commons Atıf-GayriTicari-Türetilemez 4.0 Uluslararası
+    (CC BY-NC-ND 4.0)
+
+    https://creativecommons.org/licenses/by-nc-nd/4.0/deed.tr
+
+
+SERBESTSİNİZ:
+
+    Paylaşmak
+        Eseri, DEĞİŞTİRİLMEDEN, her ortamda ve biçimde kopyalayabilir ve
+        dağıtabilirsiniz. Bunun için ayrıca izin almanız gerekmez.
+
+
+AŞAĞIDAKİ ŞARTLAR ALTINDA:
+
+    Atıf (BY)
+        Uygun atıf vermeli, lisansa bağlantı sağlamalı ve değişiklik
+        yapılmadığını belirtmelisiniz. Bunu makul herhangi bir yöntemle
+        yapabilirsiniz, ancak eser sahibinin sizi veya kullanımınızı
+        desteklediğini ima edecek şekilde değil.
+
+    GayriTicari (NC)
+        Eseri ticari amaçlarla kullanamazsınız. Ticari kullanım eser
+        sahibinin yazılı iznine tâbidir.
+
+    Türetilemez (ND)
+        Eseri karıştırır, dönüştürür veya üzerine inşa ederseniz, ortaya
+        çıkan eseri DAĞITAMAZSINIZ. Değiştirilmiş nüshaların çoğaltılması,
+        yayımlanması ve dağıtılması eser sahibinin yazılı iznine tâbidir.
+
+
+EK KISITLAMA YOK:
+    Lisansın izin verdiği eylemleri kısıtlayan hukuki şartlar veya teknolojik
+    önlemler uygulayamazsınız.
+
+
+AÇIKÇA İZİN VERİLMEYEN KULLANIMLAR
+(bunlar için eser sahibinin yazılı izni gerekir):
+
+    · Eserin değiştirilerek, kısaltılarak veya başka bir esere katılarak
+      çoğaltılması, yayımlanması veya dağıtılması
+    · Her türlü ticari kullanım (satış, ücretli dağıtım, reklam geliri
+      getiren yayım, ücretli eğitim materyali hâline getirme dâhil)
+    · Eser sahipliğinin gizlenmesi, kaldırılması veya değiştirilmesi
+    · Telif ve lisans bildirimlerinin kaldırılması
+
+Bu kullanımlar hukukî ve cezaî sorumluluk doğurur.
+
+Lisansın tam hukuki metni:
+    https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.tr
+
+İzin talebi ve ticari kullanım başvuruları eser sahibine yöneltilmelidir.
+
+--------------------------------------------------------------------------------
+TELİF DOĞRULAMA
+--------------------------------------------------------------------------------
+
+Eser, sahiplik doğrulaması için kriptografik imza taşımaktadır.
+
+Formül:
+
+    SHA-256( gizliMetin + "|" + tarih )
+
+Tarayıcı konsolunda:
+
+    verifyOwnership()
+
+Bağımsız doğrulama (herhangi bir Unix kabuğunda):
+
+    printf '%s|%s' "Araştırma, Tasnif ve Tasarım: Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ" "2026-09-01" | sha256sum
+
+Beklenen çıktı:
+
+    24d1e06466cf69d20ceec600519abed9b35c5545577b42cfee72848070b73620
+
+Not: Yalnız gizli metin hash'lenirse farklı sonuç çıkar. Tarih imzanın ayrılmaz
+parçasıdır ve eserin belirli bir tarihte var olduğunu bağlar.
+
+--------------------------------------------------------------------------------
+ÜÇÜNCÜ TARAF KAYNAKLAR
+--------------------------------------------------------------------------------
+
+Kur'an-ı Kerim metni (Osmanî imlâ)
+    Kamu malı. Telif konusu değildir.
+
+Quranic Arabic Corpus — Leeds Üniversitesi
+    https://corpus.quran.com
+    Bu eserde TÜREV VERİ olarak değil, DOĞRULAMA ARACI olarak kullanılmıştır.
+    Korpus içeriği esere kopyalanmamış; yalnız kök ve kalıp denetimi için
+    sorgulanmıştır. Bu nedenle türev eser ilişkisi doğmamaktadır.
+
+quran-align (cpfair)
+    CC BY 4.0 · https://github.com/cpfair/quran-align
+
+Âyet meâlleri
+    Müellifin Arapça asıldan yaptığı kendi çevirileridir. Yayımlanmış hiçbir
+    meâlden alıntı yapılmamıştır. Basılı meâllerle örtüşen ifadeler, ortak
+    kaynak metnin doğal sonucudur.
+
+Ses kayıtları
+    147 ilâhî ismin seslendirmesi müellife aittir.
+
+--------------------------------------------------------------------------------
+İLMÎ SORUMLULUK BEYANI
+--------------------------------------------------------------------------------
+
+Bu çalışma bağımsız ilmî hakem değerlendirmesinden GEÇMEMİŞTİR.
+
+Metin ve morfoloji katmanı adım adım doğrulanmıştır; isimlerin seçimi, kapsam
+sınırları ve açıklama metinleri ilmî tenkide açıktır.
+
+Çince, Korece ve Hintçe karşılıklar anlam çevirisidir; ana dili konuşuru
+denetiminden geçmemiştir ve litürjik kullanıma uygun değildir.
+
+================================================================================
+Araştırma, Tasnif ve Tasarım: Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ
+2026 · CC BY-NC-ND 4.0
+================================================================================

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Kur'an-ı Kerim Esmâ Atlası — İlâhî İsimlerin Nüzul Kronolojisi"
+message: "Bu eseri kullanırsanız aşağıdaki gibi atıf veriniz."
+type: software
+authors:
+  - family-names: "Kılıç"
+    given-names: "Abdulhalim"
+    alias: "Yüce Allah'ın Aciz Bir Kulu"
+abstract: >-
+  Kur'an-ı Kerim metninde Allah'a ait olarak fiilen geçen 147 ilâhî ismin,
+  ilk geçtikleri ayetin nüzul sırasına göre tasnifi. Her isim Leeds Üniversitesi
+  Quranic Arabic Corpus morfoloji veri tabanıyla kök ve sözlük biçimi düzeyinde
+  doğrulanmıştır (147/147). Eser 13 dilde sunulur ve meşhur 99 esmâ-i hüsnâ
+  listesiyle karşılaştırma katmanı içerir.
+keywords:
+  - Qur'an
+  - divine names
+  - asma al-husna
+  - esmâ-i hüsnâ
+  - chronology of revelation
+  - nüzul
+  - Quranic Arabic Corpus
+  - digital humanities
+  - Islamic studies
+  - computational philology
+license: CC-BY-NC-ND-4.0
+version: 1.0.0
+date-released: "2026-09-01"
+repository-artifact: "https://doi.org/10.5281/zenodo.XXXXXXX"
+references:
+  - type: database
+    title: "Quranic Arabic Corpus"
+    institution:
+      name: "University of Leeds"
+    url: "https://corpus.quran.com"
+  - type: data
+    title: "quran-align: word-level alignment data"
+    authors:
+      - name: "cpfair"
+    license: CC-BY-NC-ND-4.0
+    url: "https://github.com/cpfair/quran-align"
