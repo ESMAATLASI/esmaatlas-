@@ -1,0 +1,56 @@
+{
+ "creators": [
+  {
+   "name": "Kılıç, Abdulhalim",
+   "affiliation": "Bağımsız araştırmacı"
+  }
+ ],
+ "contributors": [
+  {
+   "name": "Dukes, Kais",
+   "type": "DataCurator",
+   "affiliation": "University of Leeds"
+  }
+ ],
+ "license": "cc-by-nc-nd-4.0",
+ "access_right": "open",
+ "language": "tur",
+ "version": "1.0.0",
+ "publication_date": "2026-09-01",
+ "keywords": [
+  "Qur'an",
+  "divine names",
+  "asma al-husna",
+  "esmâ-i hüsnâ",
+  "chronology of revelation",
+  "nüzul",
+  "Quranic Arabic Corpus",
+  "Arabic morphology",
+  "digital humanities",
+  "Islamic studies",
+  "computational philology",
+  "multilingual"
+ ],
+ "references": [
+  "Dukes, K. (2011). Quranic Arabic Corpus, v0.4. University of Leeds. https://corpus.quran.com",
+  "İbn Hacer el-Askalânî. Fethu'l-Bârî bi-şerhi Sahîhi'l-Buhârî.",
+  "en-Nevevî. Şerhu Sahîhi Müslim.",
+  "Türkiye Diyanet Vakfı İslâm Ansiklopedisi, \"Esmâ-i Hüsnâ\" maddesi."
+ ],
+ "title": "Kur'an-ı Kerim Esmâ Atlası — İlâhî İsimlerin Nüzul Kronolojisi (HTML5 3B Yazılım)",
+ "upload_type": "software",
+ "description": "<p><strong>Kur'an-ı Kerim metninde Allah'a ait olarak fiilen geçen 147 ilâhî ismin, ilk geçtikleri ayetin nüzul sırasına göre tasnifi.</strong></p><h4>Kapsam ölçütü</h4><p>Bir isim listeye ancak Kur'an metninde bulunuyorsa ve o yerde Allah'ı niteliyorsa girer. 147 sayısı bu ölçütün sonucudur, mutlak bir rakam değildir.</p><h4>Sayısal özet</h4><ul><li>147 isim — 96 tekil, 51 terkip</li><li>Mekke dönemi 115, Medine dönemi 32</li><li>51 sure, 118 ayet</li><li>13 dil</li></ul><h4>Doğrulama</h4><ul><li>Morfolojik teyit: Leeds Quranic Arabic Corpus v0.4 ile 147/147</li><li>Arapça yazım ↔ ayet metni: 147/147</li><li>Toplam 972 makine denetimi, sıfır hata</li></ul><h4>Karşılaştırma katmanı</h4><p>Meşhur 99 esmâ-i hüsnâ listesiyle küme analizi: her iki listede 73, yalnız Kur'an'da 74, yalnız 99'luk listede 26.</p><p><strong>Telif:</strong> Copyright © 2026 Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ. Tüm hakları saklıdır. Eser CC BY-NC-ND 4.0 ile kamuya açık sunulmuştur.</p><p><strong>Önemli uyarı:</strong> Bu çalışma bağımsız ilmî hakem değerlendirmesinden geçmemiştir.</p><p><em>Bu kayıt eserin <strong>etkileşimli yazılım</strong> sürümüdür: tek dosyalık, çevrimdışı çalışan HTML5 uygulaması. Dört üç boyutlu görünüm (sarmal, küre, tünel, liste), 13 dilli arayüz, 147 ismin seslendirmesi gömülü. Kitap sürümü ayrı bir kayıt olarak arşivlenmiştir.</em></p>",
+ "notes": "Tek dosya, sıfır dış bağımlılık, sıfır veri gönderimi. İçerik Güvenlik Politikası: default-src 'none', connect-src 'none'. 147 ses Opus 32 kbps mono olarak gömülüdür. Bu kayıt, aynı eserin kitap sürümüyle 'isSupplementTo' ilişkisiyle bağlıdır.",
+ "related_identifiers": [
+  {
+   "identifier": "https://corpus.quran.com",
+   "relation": "isDerivedFrom",
+   "resource_type": "dataset"
+  },
+  {
+   "identifier": "https://github.com/cpfair/quran-align",
+   "relation": "references",
+   "resource_type": "software"
+  }
+ ]
+}
