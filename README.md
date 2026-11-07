@@ -45,7 +45,7 @@ Yükleme sırası: önce kitap, sonra yazılım. Yazılım kaydında kitabın DO
 
 ## Telif
 
-Copyright © 2026 Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ. Tüm hakları saklıdır.
+Copyright © 2026 Yüce Allah'ın Aciz Bir Kulu Tüm hakları saklıdır.
 
 Kamuya açık kullanım: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) —
 atıf şartıyla ve ticarî olmayan kullanım için serbesttir; eser değiştirilerek dağıtılamaz.
