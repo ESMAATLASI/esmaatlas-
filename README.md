@@ -52,4 +52,4 @@ atıf şartıyla ve ticarî olmayan kullanım için serbesttir; eser değiştiri
 
 ---
 
-*Araştırma, Tasnif ve Tasarım: Yüce Allah'ın Aciz Bir Kulu Abdulhalim KILIÇ*
+*Araştırma, Tasnif ve Tasarım: Yüce Allah'ın Aciz Bir Kulu*
